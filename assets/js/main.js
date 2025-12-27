@@ -14,7 +14,7 @@ const projects = [
         stack: ["Firebase", "JavaScript", "HTML/CSS", "Node Js"],
         featured: true,
         links: {
-            live: "#",
+            live: "https://academy.navanidhi.org",
             source: null,
         },
         description: "Built a custom management system for classes, schedules, and student progress tracking.",
@@ -38,7 +38,7 @@ const projects = [
         stack: ["Firebase", "JavaScript", "Node Js", "HTML/CSS"],
         featured: true,
         links: {
-            live: "#",
+            live: "https://society.navanidhi.org",
             source: null,
         },
         description: "Developed a society management solution with member accounts, transactions, and comprehensive record management.",
@@ -62,7 +62,7 @@ const projects = [
         stack: ["WordPress", "WooCommerce"],
         featured: true,
         links: {
-            live: "#",
+            live: "https://mmruchulu.com",
             source: null,
         },
         description: "Launched and managed an online store. Handled product listings, order fulfillment, and payment processing.",
@@ -86,7 +86,7 @@ const projects = [
         stack: ["WordPress", "AI Integration", "Python"],
         featured: false,
         links: {
-            live: "#",
+            live: "https://reuse.navanidhi.org",
             source: null,
         },
         description: "Developed a prototype that uses AI to provide creative reuse suggestions for waste items.",
@@ -110,7 +110,7 @@ const projects = [
         stack: ["WordPress"],
         featured: false,
         links: {
-            live: "#",
+            live: "https://navanidhi.org",
             source: null,
         },
         description: "A comprehensive LMS Platform for Students to access courses and track their learning journey.",
@@ -134,7 +134,7 @@ const projects = [
         stack: ["Flutter", "Go", "Supabase", "Redis"],
         featured: true,
         links: {
-            live: "#",
+            live: "https://nds.navanidhi.org",
             source: null,
         },
         description: "A Mobile + webapp for all types of Digital Services in Rural Areas, including recharges and village products.",
@@ -158,7 +158,7 @@ const projects = [
         stack: ["WordPress", "3D Elements", "Interactive"],
         featured: true,
         links: {
-            live: "#",
+            live: "https://3d.navanidhi.org",
             source: null,
         },
         description: "An educational platform featuring interactive 3D elements for visualizing complex biological concepts.",
@@ -450,3 +450,5 @@ document.getElementById('copy-email-btn').addEventListener('click', function () 
         }, 2000);
     });
 });
+
+d
